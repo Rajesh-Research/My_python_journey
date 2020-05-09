@@ -1,0 +1,39 @@
+data_table.csv
+1                      Rajasthan              342,238                Northern               10.55                   Germany                                      
+2                      Madhya Pradesh         308,350                Central                9.37                    Oman                                         
+3                      Maharashtra            307,713                Western                9.36                    Italy                                        
+4                      Uttar Pradesh          243,290                Northern               7.33                    United Kingdom                               
+5                      Gujarat                196,024                Western                5.96                    Senegal                                      
+6                      Karnataka              191,791                Southern               5.83                    Syria                                        
+7                      Andhra Pradesh         162,970                Southern               4.87                    Tunisia               [4]                    
+8                      Odisha                 155,707                Eastern                4.73                    Bangladesh                                   
+9                      Chhattisgarh           135,191                Central                4.11                    Greece                                       
+10                     Tamil Nadu             130,058                Southern               3.95                    Nicaragua                                    
+11                     Telangana              112,077                Southern               3.49                    Honduras                                     
+12                     Bihar                  94,163                 Eastern                2.86                    Hungary                                      
+13                     West Bengal            88,752                 Eastern                2.70                    Serbia                                       
+14                     Arunachal Pradesh      83,743                 Northeastern           2.54                    Austria                                      
+15                     Jharkhand              79,714                 Eastern                2.42                    Czech Republic                               
+16                     Assam                  78,438                 Northeastern           2.38                    Scotland                                     
+UT1                    Ladakh                 59,146                 Northern               1.80                    Croatia               [note 1]               
+17                     Himachal Pradesh       55,673                 Northern               1.70                    Croatia                                      
+18                     Uttarakhand            53,483                 Northern               1.62                    Bosnia and Herzegovina                       
+19                     Punjab                 50,362                 Northern               1.53                    Slovakia                                     
+20                     Haryana                44,212                 Northern               1.34                    Denmark                                      
+UT2                    Jammu and Kashmir      42,241                 Northern               1.28                    Netherlands           [note 2]               
+21                     Kerala                 38,863                 Southern               1.18                    Bhutan                                       
+22                     Meghalaya              22,429                 Northeastern           0.68                    Belize                                       
+23                     Manipur                22,327                 Northeastern           0.68                    Slovenia                                     
+24                     Mizoram                21,081                 Northeastern           0.64                    El Salvador                                  
+25                     Nagaland               16,579                 Northeastern           0.50                    Eswatini                                     
+26                     Tripura                10,486                 Northeastern           0.31                    Lebanon                                      
+UT3                    Andaman and Nicobar Islands8,249                  Bay of Bengal          0.25                    Puerto Rico                                  
+27                     Sikkim                 7,096                  Northeastern           0.21                    Cyprus                                       
+28                     Goa                    3,702                  Western                0.11                    French Polynesia                             
+NCT                    Delhi                  1,483                  Northern               0.04                    Faroe Islands                                
+UT5                    Dadra and Nagar Haveli and Daman and Diu603                    Western                0.01                    Saint Lucia           [5]                    
+UT6                    Puducherry             492                    Southern               0.01                    Andorra                                      
+UT7                    Chandigarh             114                    Northern               0.003                   Wallis and Futuna                            
+UT8                    Lakshadweep            32                     Arabian Sea            0.001                   Macau                                        
+**                     Disputed area (between the states)23                                            0.0007                  Nauru                 [note 3][note 4]       
+                       India                  3,287,263[a]                                  100                                                                  
